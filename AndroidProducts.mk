@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_lettuce.mk
+    $(LOCAL_DIR)/omni_nx511j.mk

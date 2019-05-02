@@ -1,8 +1,14 @@
 [
   {
     "remote":"github",
-    "repository": "LineageOS/android_kernel_cyanogen_msm8916",
-    "target_path": "kernel/cyanogen/msm8916",
+    "repository": "TTTT555/android_kernel_nubia_nx511j",
+    "target_path": "kernel/nubia/nx511j",
     "revision": "lineage-16.0"
+  }
+  {
+    "remote":"github",
+    "repository": "omnirom/android_external_busybox",
+    "target_path": "external/busybox",
+    "revision": "android-9.0"
   }
 ]
