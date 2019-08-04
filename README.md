@@ -8,9 +8,13 @@ repo init -u git://github.com/omnirom/android.git -b android-8.1
 repo sync
 ```
 
-2) Replace '{source-dir}/bootable/recovery/' on this tree: https://github.com/omnirom/android_bootable_recovery/tree/android-9.0
+2) Replace {source-dir}/bootable/recovery/ on this tree: https://github.com/omnirom/android_bootable_recovery/tree/android-9.0
 
-3) Place this device tree files to {source-dir}/device/nubia/nx511j
+3) Place this files https://github.com/omnirom/android_external_busybox/tree/android-8.1 to {source-dir}/external/busybox/
+
+4) Place this device tree files to {source-dir}/device/nubia/nx511j
+
+5) Place this kernel files https://github.com/TTTT555/android_kernel_nubia_nx511j to {source-dir}/kernel/nubia/nx511j
 
 
 To build:
