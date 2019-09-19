@@ -1,5 +1,6 @@
 ## TWRP Treble device tree for Nubia Z9 mini
 
+#Used with repartitioned devices. https://4pda.ru/forum/index.php?s=&showtopic=702119&view=findpost&p=88927754
 
 1) Create {source-dir} and initialize Omni sources (we need make_ext4fs from Oreo tree): 
 
