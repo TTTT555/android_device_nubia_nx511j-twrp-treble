@@ -3,7 +3,7 @@
     "remote":"github",
     "repository": "TTTT555/android_kernel_nubia_nx511j",
     "target_path": "kernel/nubia/nx511j",
-    "revision": "lineage-16.0"
+    "revision": "for_brokens"
   },
   {
     "remote":"github",
